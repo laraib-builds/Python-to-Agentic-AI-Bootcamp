@@ -1,0 +1,7 @@
+
+2026-08-14 17:11:52 | Deposit | Amount: 5 | Balance: 3505 | Status: Success
+2026-08-14 17:13:11 | Deposit | Amount: 1500 | Balance: 5000 | Status: Success
+2026-08-14 17:13:27 | Withdrawal | Amount: 3000 | Balance: 2000 | Status: Success
+2026-08-14 17:15:30 | Deposit | Amount: 4000 | Balance: 7500 | Status: Success
+2026-08-14 17:18:29 | Deposit | Amount: 4000 | Balance: 7500 | Status: Success
+2026-08-14 17:19:11 | Deposit | Amount: 4000 | Balance: 11500 | Status: Success
