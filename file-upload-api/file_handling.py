@@ -117,7 +117,7 @@ async def upload(file: UploadFile = File(...)):
     file_url = f"/static/{safe_filename}"
 
 
-    # 8. RESPONSE
+    # 8. RESPONSE 
 
     return {
         "message": "File uploaded successfully.",
