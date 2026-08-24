@@ -61,7 +61,7 @@ async def upload(file: UploadFile = File(...)):
             status_code=415,
             detail=(
                 "Unsupported file type. "
-                "Allowed types: JPG, JPEG, PNG, PDF, TXT."
+                "Allowed types: JPG, JPEG, PNG."
             )
         )
 
